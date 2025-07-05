@@ -2,6 +2,9 @@
 
 ![GitHub license](https://img.shields.io/badge/license-Apache%202.0-blue.svg)
 ![File Size](https://img.shields.io/badge/File%20Size-2.25KB-blue)
+![GitHub stars](https://img.shields.io/github/stars/0liuuil0/-ZhihuAutoCloseandRemoveElements.svg?style=social&label=Star)
+![GitHub issues](https://img.shields.io/github/issues/0liuuil0/-ZhihuAutoCloseandRemoveElements.svg?style=flat-square)
+![Last Updated](https://img.shields.io/github/last-commit/0liuuil0/-ZhihuAutoCloseandRemoveElements/%E7%A7%BB%E9%99%A4%E7%9F%A5%E4%B9%8E%E7%99%BB%E5%BD%95%E5%BC%B9%E7%AA%97-0.9.user.js?color=green&style=flat-square)
 
 这是一个篡改猴 (Tampermonkey) 脚本，用于自动点击知乎网页上的关闭按钮并移除右下角登录提示框。
 
@@ -13,6 +16,7 @@
 ## 贡献&联系作者
 
 欢迎任何形式的贡献！如果你有任何改进建议或发现了bug，可发送邮件到
+
 ![Email](https://img.shields.io/badge/email-y0x4nu5@outlook.com-yellow.svg)
 
 或请按照以下步骤操作：
