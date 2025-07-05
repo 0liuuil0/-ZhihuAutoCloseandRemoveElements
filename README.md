@@ -3,7 +3,6 @@
 ![GitHub stars](https://img.shields.io/github/stars/0liuuil0/my-zhihu-script.svg?style=social&label=Star)
 ![GitHub forks](https://img.shields.io/github/forks/0liuuil0/my-zhihu-script.svg?style=social&label=Fork)
 ![GitHub issues](https://img.shields.io/github/issues/0liuuil0/my-zhihu-script.svg)
-![GitHub Actions](https://github.com/0liuuil0/my-zhihu-script/actions/workflows/main.yml/badge.svg)
 
 基于篡改猴 (Tampermonkey) 实现的：自动点击知乎网页上的关闭按钮并移除右下角登录提示框
 
