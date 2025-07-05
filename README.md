@@ -2,7 +2,6 @@
 
 ![GitHub license](https://img.shields.io/badge/license-Apache%202.0-blue.svg)
 ![File Size](https://img.shields.io/badge/File%20Size-2.25KB-blue)
-
 ![GitHub stars](https://img.shields.io/github/stars/0liuuil0/-ZhihuAutoCloseandRemoveElements.svg?style=social&label=Star)
 ![GitHub issues](https://img.shields.io/github/issues/0liuuil0/-ZhihuAutoCloseandRemoveElements.svg)
 
@@ -12,6 +11,9 @@
 
 - 自动点击知乎网页上的关闭按钮。
 - 移除登录提示框。
+
+## 版本更新
+20250705-v0.9
 
 ## 贡献&联系作者
 
