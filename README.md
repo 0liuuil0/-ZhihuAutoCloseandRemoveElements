@@ -15,7 +15,7 @@
 
 ## 贡献&联系作者
 
-欢迎任何形式的贡献！如果你有任何改进建议或发现了bug，可发送邮件到
+欢迎任何形式的贡献！如果你有任何改进建议或发现了bug，有任何疑问或者侵权事宜，可发送邮件到
 
 ![Email](https://img.shields.io/badge/email-y0x4nu5@outlook.com-yellow.svg)
 
